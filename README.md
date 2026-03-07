@@ -49,7 +49,7 @@ The project was built using road and cellular coverage data processed in ArcGIS 
 
 Add your GitHub Pages link here once deployed:
 
-`[Live Demo](PASTE_YOUR_LINK_HERE)`
+
 
 ## Project Structure
 
