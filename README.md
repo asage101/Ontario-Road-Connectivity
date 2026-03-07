@@ -1,5 +1,9 @@
 # Ontario Road Connectivity
+<<<<<<< HEAD
 ![Map Screenshot](asset/map_screenshot.png)
+=======
+![Map Screenshot](assets/map_screenshot.png)
+>>>>>>> 23a219f3cdba76443f5c3a72eef7827016d11387
 An interactive web map showing Ontario road segments classified by cellular coverage: None, LTE, 5G, or Both.
 
 ## Overview
@@ -49,7 +53,7 @@ The project was built using road and cellular coverage data processed in ArcGIS 
 
 Add your GitHub Pages link here once deployed:
 
-
+https://asage101.github.io/ontario-road-connectivity/
 
 ## Project Structure
 
