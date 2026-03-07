@@ -49,8 +49,6 @@ The project was built using road and cellular coverage data processed in ArcGIS 
 
 ## Live Map
 
-Add your GitHub Pages link here once deployed:
-
 https://asage101.github.io/ontario-road-connectivity/
 
 ## Project Structure
