@@ -1,5 +1,5 @@
 # Ontario Road Connectivity
-![Map Screenshot](asset/map_screenshot.png)
+![Map Screenshot](assets/map_screenshot.png)
 An interactive web map showing Ontario road segments classified by cellular coverage: None, LTE, 5G, or Both.
 
 ## Overview
