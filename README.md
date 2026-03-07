@@ -54,13 +54,15 @@ The project was built using road and cellular coverage data processed in ArcGIS 
 
 ## Data Sources
 
-Road network data:
-Ontario Road Network Composite Service, Land Information Ontario.
-https://geohub.lio.gov.on.ca/maps/mnrf::ontario-road-network-composite-service/about
+This project uses publicly available spatial data from the following sources:
 
-Cellular coverage data:
-CRTC geographic service coverage data.
-https://crtc.gc.ca/eng/television/services/geo.htm
+- **Ontario Road Network Composite Service**  
+  Land Information Ontario  
+  https://geohub.lio.gov.on.ca/maps/mnrf::ontario-road-network-composite-service/about
+
+- **CRTC Geographic Service Coverage Data**  
+  Canadian Radio-television and Telecommunications Commission  
+  https://crtc.gc.ca/eng/television/services/geo.htm
 
 
 ## Project Structure
