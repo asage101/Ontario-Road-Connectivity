@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Wildfire Risk Explorer</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="ui-card" class="leaflet-control">
+    <div class="ui-header">
+      <div class="ui-title">Ontario Road Connectivity</div>
+      <button id="ui-toggle" class="ui-btn" aria-expanded="false">More info ▾</button>
+    </div>
+    <div class="ui-search">
+      <select id="jurisdiction-filter" class="ui-select">
+        <option value="">All jurisdictions</option>
+      </select>
+
+      <input id="road-search" type="text" placeholder="Search road name (e.g., King, Yonge)..." autocomplete="off" />
+      <div id="search-results" class="ui-results collapsed"></div>
+    </div>
+    <div id="ui-content" class="ui-content collapsed">
+      <!-- You can write this later -->
+      <div class="ui-placeholder">Add your info text here later I need to practive writing and also I need a bit more 
+        to add to this .</div>
+      <div class="ui-placeholder">Add your info text here later I need to practive writing and also I need a bit more 
+        to add to this .</div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script>
+  <script src="https://unpkg.com/esri-leaflet-vector@4.2.4/dist/esri-leaflet-vector.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
