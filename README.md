@@ -27,6 +27,13 @@ https://asage101.github.io/ontario-road-connectivity/
 - Interactive legend
 - Expandable information card
 
+## How to Use
+
+- Search for roads by name
+- Filter results by jurisdiction
+- Click road segments to view available attributes
+- Explore provincial patterns of road connectivity and service availability
+  
 ## Data and Processing
 
 The project was built using road and cellular coverage data processed in ArcGIS Pro.
