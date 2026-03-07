@@ -8,6 +8,11 @@ An interactive web map showing Ontario road segments classified by cellular cove
 
 This project visualizes road connectivity across Ontario using a published ArcGIS Online Vector Tile Layer and Feature Layer. The map allows users to explore cellular coverage by road segment, search for road names, filter by jurisdiction, and inspect road attributes such as speed limit, pavement surface, and jurisdiction.
 
+
+## Live Map
+
+https://asage101.github.io/ontario-road-connectivity/
+
 ## Features
 
 - Ontario-wide road coverage visualization
@@ -47,9 +52,16 @@ The project was built using road and cellular coverage data processed in ArcGIS 
 - ArcGIS Pro
 - ArcGIS Online
 
-## Live Map
+## Data Sources
 
-https://asage101.github.io/ontario-road-connectivity/
+Road network data:
+Ontario Road Network Composite Service, Land Information Ontario.
+https://geohub.lio.gov.on.ca/maps/mnrf::ontario-road-network-composite-service/about
+
+Cellular coverage data:
+CRTC geographic service coverage data.
+https://crtc.gc.ca/eng/television/services/geo.htm
+
 
 ## Project Structure
 
