@@ -7,7 +7,7 @@ The project combines provincial road data with cellular coverage information to 
 
 Developed using ArcGIS Pro, ArcGIS Online, Leaflet, and JavaScript, the application allows users to explore road connectivity, search for specific roads, and examine associated road attributes.
 
-**[Explore the Live Interactive Map](https://asage101.github.io/ontario-road-connectivity/)**
+**[Explore the Live Interactive Map](https://asage101.github.io/Ontario-Road-Connectivity/)**
 
 ![Map Screenshot](assets/map_screenshot.png)
 
@@ -165,7 +165,7 @@ By combining these components, the application provides a way to explore pattern
 
 ## Explore the Project
 
-**[Launch the Interactive Ontario Road Connectivity Map](https://asage101.github.io/ontario-road-connectivity/)**
+**[Launch the Interactive Ontario Road Connectivity Map](https://asage101.github.io/Ontario-Road-Connectivity/)**
 
 ![Map Screenshot](assets/map_screenshot.png)
 
